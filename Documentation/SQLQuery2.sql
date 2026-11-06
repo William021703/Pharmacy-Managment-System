@@ -1,0 +1,16 @@
+use PharmacySystem;
+
+CREATE TABLE Users
+(
+    UserID INT NOT NULL IDENTITY(1,1),
+    Username VARCHAR(100) NOT NULL UNIQUE,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE
+        CHECK (Email LIKE '%@%'),
+    Password VARCHAR(20) NOT NULL,
+    PIN INT NOT NULL UNIQUE,
+
+    CONSTRAINT PK_Users PRIMARY KEY (UserID)
+);
+GO
