@@ -1,0 +1,15 @@
+Pharmacy Management System
+
+ Users
+ Roles
+ Employees
+ Patients
+ Suppliers
+ Products
+ Purchases
+ PurchaseDetails
+ Sales
+ SaleDetails
+ Prescriptions
+ InventoryMovements
+ AuditLog
