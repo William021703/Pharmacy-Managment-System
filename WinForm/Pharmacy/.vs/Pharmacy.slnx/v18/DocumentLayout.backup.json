@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto de farmacia\\WinForm\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B0392B-BF40-4F92-BF09-D65A7E77F044}|Pharmacy\\Pharmacy.csproj|c:\\proyecto de farmacia\\winform\\pharmacy\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66B0392B-BF40-4F92-BF09-D65A7E77F044}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Proyecto de farmacia\\WinForm\\Pharmacy\\Pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Form1.cs",
+              "ToolTip": "C:\\Proyecto de farmacia\\WinForm\\Pharmacy\\Pharmacy\\Form1.cs [Design]",
+              "RelativeToolTip": "Pharmacy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T22:50:31.315Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
