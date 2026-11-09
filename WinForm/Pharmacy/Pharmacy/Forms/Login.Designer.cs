@@ -83,6 +83,7 @@
             // BtnLogin
             // 
             BtnLogin.BackColor = SystemColors.ControlText;
+            BtnLogin.Cursor = Cursors.Hand;
             BtnLogin.Font = new Font("Calibri", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             BtnLogin.ForeColor = SystemColors.ButtonHighlight;
             BtnLogin.Location = new Point(166, 243);
@@ -106,6 +107,7 @@
             Controls.Add(label1);
             Name = "Login";
             Text = "Login";
+            Load += Login_Load;
             ResumeLayout(false);
             PerformLayout();
         }
